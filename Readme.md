@@ -105,5 +105,38 @@ Cloud Computing. So I had python as a first
 programming language. I am still not good at coding.
 But I am trying to give my best.
 
-### Exercise Files
+# Information about the Author
+>## Study
+>I am a Mobile Software Development student at FH JOANNEUM
+(University of Applied Sciences), which was unexpected, as I
+found my passion after trying a lot of fields, my first
+trial was in Egypt as I started to study Linguistics.
+After two years I realized that it was boring for me,
+so I went for something related to computers.
+>## Hobbys
+> - Drawing 
+> - - my [tictok acount](https://www.tiktok.com/@alaa.kh01) for my Paintings 
+> - Dancing
+> - Watching Anime
+> - Reading Manga
+> - Walking
+
+
+>## Github 
+>My GitHub Profil:
+>- [https://github.com/AlaaAbouElFadl](https://github.com/AlaaAbouElFadl)
+>
+>GitHub HomePage:
+>- [https://github.com/](https://github.com/)
+>
+>## High School
+>I graduated from my High school in Egypt 
+>
+>[My High School](https://www.bing.com/search?q=+%D9%85%D8%AF%D8%B1%D8%B3%D9%87+%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%A7%D8%AA+%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%88%D9%8A%D9%87++%D8%A8%D9%86%D8%A7%D8%AA+%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D9%87&qs=n&form=QBRE&sp=-1&lq=0&pq=+%D9%85%D8%AF%D8%B1%D8%B3%D9%87+%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%A7%D8%AA+%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%88%D9%8A%D9%87++%D8%A8%D9%86%D8%A7%D8%AA+%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D9%87&sc=1-37&sk=&cvid=F006453C2FA4443298311237AE16A911&ghsh=0&ghacc=0&ghpl=)
+>
+>High School Facebook Account: 
+>- [https://www.facebook.com/ElsadatSchool.1/](https://www.facebook.com/ElsadatSchool.1/)
+
+## Exercise Files
 - [Exercise1](exercise1.md)
+- [Exercise2](exercise2.md)
