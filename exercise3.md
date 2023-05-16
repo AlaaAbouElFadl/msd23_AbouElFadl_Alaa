@@ -2,7 +2,7 @@
 
 ## Description
 This program is a calculator.
-It has been done in two classes. 
+I made this program with two classes. 
 
 The first one is the "Calculator.java" and 
 the second one is the "Main.java".
@@ -11,6 +11,12 @@ The program delivers the output through the console.
 ## What should the project achieve?
 As I mentioned before, the program includes 
 two classes. 
+The program calculates with the four
+operators ('+', '-', 'x', '/'),
+writes in the output the values you 
+gave to "num1" and "num2"
+and delivers the result.
+**Look at the example bellow!**
 
 The first one is the "Calculator.java" 
 and this class includes the methode of
@@ -21,7 +27,7 @@ the four possibilities:
 - **divide**
 
 The second one is the "Main.java"
-and that is where i declared the first 
+and that is where I declared the first 
 value "num1" and the second value "num2".
 I also wrote in this class what exactly 
 should be printed with the end results. 
@@ -33,18 +39,13 @@ I gave the results of every case ,
 - for the  multiplication **"multiplyResult"**
 - for the  divideResult **"addResult"**
 
-## The program
-While running the program for the first time I noticed that a folder was cereated.
+### Example
+This is how the output looks like.
+It depends only on the values you give
+to "**num1**" and "**num2**"
+![example of my calculator output](images/ex3_3.png)
 
-
-
-
-## Example
-This Example shows how the output looks like.
-
-
-
-## installation
+## Installation
 If you have Java installed on your Desktop
 then it will be very easy for you.
 
@@ -60,10 +61,24 @@ If you successfully installed the IDE and JDK.
 You just have to unzip the file and open the 
 two classes, setup the jdk and run the Main class.
 The output will be delivered through the console.
+You van change the values if you want in the
+"Main.java" class.
+
+## The program
+While running the program for the first time
+I noticed that a folder named "target" was
+created.
+
+Here is a screenshot of the folder
+![the new created folder named "target"](images/ex3_1.png)
+
+this is a screenshot of my successful mvn compile 
+build
+![successful mvn compine build](images/ex3_2.png)
 
 ## Why I build this project?
 This project was an assigment. It was about
-building a simple caluclator.
+building a simple calculator.
 
 ## Support
 If you need support or have any question
