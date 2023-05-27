@@ -18,5 +18,13 @@ public class Main {
 
         double divideResult = calculator.divide(num1, num2);
         System.out.println(num1 + " / " + num2 + " = " + divideResult);
+
+        int factNum = 4;
+        double factorialResult = calculator.factorial(factNum);
+        System.out.println(factNum + "! =" + factorialResult);
+
     }
+
+
+
 }
