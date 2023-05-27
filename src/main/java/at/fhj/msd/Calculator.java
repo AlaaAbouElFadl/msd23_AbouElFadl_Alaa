@@ -24,15 +24,24 @@ public class Calculator {
 
 
     //Faculty
-
-     public double factorial(int num) {
-        return 0;
+    public long factorial(int num){
+        if(num < 0) {
+            return 0;
+        }
+        if (num == 0) {
+            return 1;
+        }
+        long result = 1;
+        for (int i = 1 ; i <= num ; i++) {
+            result *= i;
+        }
+        return result;
     }
 
 
 
 
-    
+
 
 
 
