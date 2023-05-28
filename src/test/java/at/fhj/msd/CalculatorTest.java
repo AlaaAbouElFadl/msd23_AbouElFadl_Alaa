@@ -30,14 +30,14 @@ public  class CalculatorTest {
         assertEquals(15, actual );
     }
     @Test
-    @DisplayName("Devide Testing")
+    @DisplayName("Divide Testing")
     void testDevide(){
         double actual = calc.divide(15, 5);
         assertEquals(3, actual );
     }
 
     @Test
-    @DisplayName("Devide by zero Testing")
+    @DisplayName("Divide by zero Testing")
     public void testDevideWithZero(){
         assertThrows(ArithmeticException.class,() -> {
             calc.divide(5,0);
