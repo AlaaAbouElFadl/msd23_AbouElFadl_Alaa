@@ -1,6 +1,10 @@
 package at.fhj.msd;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 
 public class Main {
+    private static Logger logger = LogManager.getLogger();
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
 
@@ -22,6 +26,9 @@ public class Main {
         int factNum = 4;
         double factorialResult = calculator.factorial(factNum);
         System.out.println(factNum + "! =" + factorialResult);
+
+        logger.info("This in an Info-Log entry");
+        logger.error("This is an Error-Log entry");
 
     }
 
