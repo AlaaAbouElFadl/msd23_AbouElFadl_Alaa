@@ -2,3 +2,4 @@
 *.pdf
 *.idea
 target/
+*.log4j2.xml
