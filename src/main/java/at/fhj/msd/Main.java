@@ -4,7 +4,7 @@ import org.apache.logging.log4j.Logger;
 
 
 public class Main {
-    private static Logger logger = LogManager.getLogger();
+    public static Logger logger = LogManager.getLogger();
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
 
@@ -27,8 +27,9 @@ public class Main {
         double factorialResult = calculator.factorial(factNum);
         System.out.println(factNum + "! =" + factorialResult);
 
-        logger.info("This in an Info-Log entry");
-        logger.error("This is an Error-Log entry");
+        logger.info("This in a info logger");
+        logger.error("This is an error logger");
+        logger.debug("This in a debug logger");
 
     }
 
