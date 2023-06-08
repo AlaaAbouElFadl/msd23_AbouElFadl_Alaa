@@ -136,9 +136,19 @@ so I went for something related to computers.
 >
 >High School Facebook Account: 
 >- [https://www.facebook.com/ElsadatSchool.1/](https://www.facebook.com/ElsadatSchool.1/)
+## Additional important coniguration files
+If you run you test the entires are going to be saved in this file
+- [myapp.log **file**](logs/myapp.log)
+
+You can find the configuration code in this file
+- [log4j2.xml **file**](src/main/resources/log4j2.xml)
+
+This configuration should help the beginners to configure (This is important to know how to configure)
+- [log4j2.xml.template **file**](src/main/resources/log4j2.xml.template)
 
 ## Exercise Files
 - [Exercise1](exercise1.md)
 - [Exercise2](exercise2.md)
 - [Exercise3](exercise3.md)
 - [Exercise4](exercise4.md)
+- [Exercise5](exercise5.md)
