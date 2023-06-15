@@ -2,6 +2,9 @@ package at.fhj.msd;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+/**
+ *
+ */
 
 public class Main {
     public static Logger logger = LogManager.getLogger();
@@ -11,6 +14,9 @@ public class Main {
         double num1 = 7.0;
         double num2 = 3.0;
 
+        /**
+         *
+         */
         double addResult = calculator.add(num1, num2);
         System.out.println(num1 + " + " + num2 + " = " + addResult);
 
